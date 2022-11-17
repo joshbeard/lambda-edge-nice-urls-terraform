@@ -1,7 +1,16 @@
+# Lambda Edge Nice URLs with CloudFront
+
 ## What is this?
+
+This is a fork of <https://github.com/CloudUnder/lambda-edge-nice-urls>. This
+fork adds Terraform for use as a module.
 
 This is an **AWS Lambda@Edge** function to enable **static website hosting on AWS S3 via CloudFront** with beautiful page URLs without .html suffixes and without requiring other hacks.
 
+The original README is below. The original forked source is in the _master_
+branch.
+
+---
 
 ## What scenarios are supported?
 
